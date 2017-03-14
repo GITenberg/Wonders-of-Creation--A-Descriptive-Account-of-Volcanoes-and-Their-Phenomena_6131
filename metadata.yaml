@@ -1,5 +1,8 @@
 _repo: Wonders-of-Creation--A-Descriptive-Account-of-Volcanoes-and-Their-Phenomena_6131
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6131#Wonders-of-Creation--A-Descriptive-Account-of-Volcanoes-and-Their-Phenomena
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
